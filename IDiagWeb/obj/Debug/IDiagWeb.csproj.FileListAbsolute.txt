@@ -171,3 +171,17 @@ C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\roslyn\vbc.exe.config
 C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\roslyn\vbc.rsp
 C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\roslyn\VBCSCompiler.exe
 C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\x86\KernelTraceControl.dll
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\x86\KernelTraceControl.Win61.dll
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\x86\msdia140.dll
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\amd64\KernelTraceControl.dll
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\amd64\msdia140.dll
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\Elastic.Apm.AspNetFullFramework.dll
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\Elastic.Apm.dll
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\OSExtensions.dll
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\Chris\source\repos\IDiagTester\IDiagWeb\bin\System.Threading.Tasks.Dataflow.xml
