@@ -14,7 +14,7 @@ namespace IDiagWeb.Controllers
         public async Task<string> Get(int id)
         {
             var url = id == 1 
-                ? "http://www.elastic.co" 
+                ? "https://www.elastic.co" 
                 : $"http://{ControllerContext.Request.RequestUri.Host}:{ControllerContext.Request.RequestUri.Port}/api/testing";
 
             using (var httpClient = new HttpClient())
